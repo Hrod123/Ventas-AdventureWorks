@@ -24,3 +24,6 @@ Luego estos archivos son importados a Power BI donde se realiza primero el model
 posterior visualización en el Dashboard.
 
 ![](https://github.com/Hrod123/Ventas-AdventureWorks/blob/main/Dashboard1.PNG)
+
+
+![](https://github.com/Hrod123/Ventas-AdventureWorks/blob/main/Dashboard2.PNG)
