@@ -23,4 +23,4 @@ Una vez que se tiene los scripts actualizados, estos son exportados en formato C
 Luego estos archivos son importados a Power BI donde se realiza primero el modelado de datos para su 
 posterior visualización en el Dashboard.
 
-
+![](https://github.com/Hrod123/Ventas-AdventureWorks/blob/main/Dashboard1.PNG)
