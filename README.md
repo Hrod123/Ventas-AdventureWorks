@@ -2,7 +2,7 @@
 
 El caso empieza con un requimiento del negocio donde se solicitan los siguientes puntos:
 
--Problema: Mejorar ventas de internet
+PROBLEMA Mejorar ventas de internet
 
 -El proceso debe realizarse mediante un dashboard interactivo.
 
@@ -22,6 +22,10 @@ Se debe primero actualizar la base de datos mediante algunos scribs adjuntos en 
 Una vez que se tiene los scripts actualizados, estos son exportados en formato CSV.
 Luego estos archivos son importados a Power BI donde se realiza primero el modelado de datos para su 
 posterior visualización en el Dashboard.
+
+A continuación se adjuntarán los dashboards:
+
+
 
 ![](https://github.com/Hrod123/Ventas-AdventureWorks/blob/main/Dashboard1.PNG)
 
